@@ -18,7 +18,7 @@ body {
 	background: #f0f0f0;	/*背景色*/
 	-webkit-text-size-adjust: none;
 }
-h1,h2,h3,h4,h5,p,ul,ol,li,dl,dt,dd,form,figure,form {position:absolute; margin: 0px;padding: 0px;font-size: 100%;font-weight: normal;}
+h1,h2,h3,h4,h5,p,ul,ol,li,dl,dt,dd,form,figure,form {margin: 0px;padding: 0px;font-size: 100%;font-weight: normal;}
 ul {list-style-type: none;}
 ol {padding-left: 40px;padding-bottom: 15px;}
 img {border: none;max-width: 100%;height: auto;vertical-align: middle;}
